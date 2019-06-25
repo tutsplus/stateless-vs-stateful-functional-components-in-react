@@ -1,0 +1,15 @@
+{
+  "name": "a-simple-counter-using-react",
+  "description": "This is a simple counter that displays the things that you can do with React component.",
+  "version": "0.0.19",
+  "dependencies": {},
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
